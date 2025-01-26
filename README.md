@@ -1,6 +1,6 @@
 <div align="center">
 
-## Java Banking Prgram </div>
+## Java Banking Program </div>
 <br>
 
 > [!IMPORTANT]
